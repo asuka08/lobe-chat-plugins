@@ -86,6 +86,16 @@ Answer users' legal questions
 
 ---
 
+### [Mind Map](https://lobechat.com/discover/plugin/Mind_map)
+
+<sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
+
+A sentence, an article, a task, an idea, a trip, clear your mind.
+
+`mind-map` `ai`
+
+---
+
 ### [Contract Review](https://lobechat.com/discover/plugin/contract_review)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
