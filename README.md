@@ -76,6 +76,16 @@ If you wish to add a plugin onto the index, make an entry in `plugins` directory
 
 <!-- AWESOME PLUGINS -->
 
+### [legal_assistant](https://lobechat.com/discover/plugin/legal_assistant)
+
+<sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
+
+Answer users' legal questions
+
+`law` `knowledge` `ai`
+
+---
+
 ### [Contract Review](https://lobechat.com/discover/plugin/contract_review)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>

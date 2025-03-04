@@ -76,6 +76,16 @@
 
 <!-- AWESOME PLUGINS -->
 
+### [法律助手](https://lobechat.com/discover/plugin/legal_assistant)
+
+<sup>By **[@wjw](https://github.com/GodweiLL)** on **2025-03-04**</sup>
+
+回答用户的法律问题
+
+`法律` `知识` `人工智能`
+
+---
+
 ### [合同审查](https://lobechat.com/discover/plugin/contract_review)
 
 <sup>By **[@liangrui](https://github.com/lr-online)** on **2025-03-01**</sup>
