@@ -1,0 +1,15 @@
+{
+  "author": "wjw",
+  "createdAt": "2025-03-04",
+  "homepage": "https://github.com/GodweiLL",
+  "identifier": "Mind_map",
+  "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/jiawei/Mind_map.json",
+  "meta": {
+    "avatar": "🧠",
+    "tags": ["mind-map", "ai"],
+    "title": "Mind Map",
+    "description": "A sentence, an article, a task, an idea, a trip, clear your mind.",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
