@@ -1,13 +1,15 @@
 {
   "author": "wjw",
+  "createdAt": "2025-03-04",
   "homepage": "https://github.com/GodweiLL",
   "identifier": "legal_assistant",
   "manifest": "https://test-1321707147.cos.ap-beijing.myqcloud.com/jiawei/law_fail.json",
   "meta": {
     "avatar": "⚖️",
-    "tags": ["law", "knowledge", "AI"],
+    "tags": ["law", "knowledge", "ai"],
     "title": "legal_assistant",
-    "description": "Answer users' legal questions"
-  }
+    "description": "Answer users' legal questions",
+    "category": "tools"
+  },
+  "schemaVersion": 1
 }
-
